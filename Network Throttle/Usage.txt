@@ -1,0 +1,14 @@
+Network Throttle tweaks are intended to lower High-Ping. Making the connection more stable
+and faster? Set it to OFF to disable system forcing bandwith connection and feel the side-
+effect. Keep it ON if the network has no issues with slow speed transmit. Set to OFF is
+preferable.
+
+[==============================================================================]
+
+Warning!
+
+The side affect by turning it OFF might impact Network Speed, thus use it if there's no
+problem after tweaking. 
+
+[==============================================================================]
+
